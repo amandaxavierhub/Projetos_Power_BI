@@ -19,4 +19,4 @@ O projeto foi construído utilizando Power BI, com aplicação de DAX para cria�
 - Power Query (M)
 
 📄 Relatório em PDF:
-- [Visualizar relatório](./Projeto_dash_operacional.pdf.pdf)
+- [Visualizar relatório](./Projeto_dash_operacional.pdf)
