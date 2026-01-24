@@ -158,7 +158,7 @@ conn.close()
 Arquivos
 📄 Relatório em PDF:
 - [Visualizar código](./base_de_vendas.py)
-- [Visualizar relatório](./portfolio_base_de_vendas.pdf)
+- [Visualizar relatório](./porfolio_base_de_vendas.pdf)
 
 ## Links
 
