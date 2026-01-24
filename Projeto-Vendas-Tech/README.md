@@ -5,7 +5,8 @@
 2. [Principais Indicadores (KPIs)](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#PrincipaisIndicadores(KPIs))
 3. [Ferramentas Utilizadas](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#FerramentasUtilizadas)
 4. [Códigos](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Códigos)
-5.  [Arquivos](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Arquivos)
+5. [Arquivos](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Arquivos)
+6. [Arquivos](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Links)
 
 ## Introdução
 
@@ -156,5 +157,11 @@ conn.close()
 ## Arquivos
 Arquivos
 📄 Relatório em PDF:
-- [Visualizar código](./Projeto-Vendas-Tech/base_de_vendas.py)
-- [Visualizar relatório](./Projeto-Vendas-Tech/portfolio_base_de_vendas.pdf)
+- [Visualizar código](./base_de_vendas.py)
+- [Visualizar relatório](./portfolio_base_de_vendas.pdf)
+
+## Links
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Análise%20em%20Choque-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@analiseemchoque) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/amandaxaviers])
