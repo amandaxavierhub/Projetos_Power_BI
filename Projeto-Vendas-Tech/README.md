@@ -1,12 +1,13 @@
 # Power BI| Análise de Vendas | KPIs
 
 
-1. [Introdução](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Introdução)
-2. [Principais Indicadores (KPIs)](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#PrincipaisIndicadores(KPIs))
-3. [Ferramentas Utilizadas](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#FerramentasUtilizadas)
-4. [Códigos](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Códigos)
-5. [Arquivos](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Arquivos)
-6. [Links](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Links)
+1. [Introdução](#introdução)
+2. [Principais Indicadores](#principais-indicadores)
+3. [Ferramentas Utilizadas](#ferramentas-utilizadas)
+4. [Códigos](#códigos)
+5. [Arquivos](#arquivos)
+6. [Links](#links)
+
 
 ## Introdução
 
@@ -14,7 +15,7 @@ Dashaboard| Vendas e Performance Comercial
 
 Este projeto foi desenvolvido para análise de vendas de uma empresa do setor de tecnologia. Os dados utilizados são fictícios e foram desenvolvidos apenas para aplicação do conteúdo.
 
-## Principais Indicadores(KPIs)
+## Principais Indicadores
 ### O relatório permite acompanhar os principais indicadores:
 * Receita Total.
 * Quantidade total vendida.
@@ -33,7 +34,7 @@ Este projeto foi desenvolvido para análise de vendas de uma empresa do setor de
 - Power BI
 - Canva (apresentação do portfólio)
 
-## Códigos (base de vendas)
+## Códigos
 Foi utilizada a biblioteca pandas para gerar a base de vendas em formato db.
 
 ~~~~Python
