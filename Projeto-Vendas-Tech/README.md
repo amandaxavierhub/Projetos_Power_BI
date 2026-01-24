@@ -6,7 +6,7 @@
 3. [Ferramentas Utilizadas](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#FerramentasUtilizadas)
 4. [Códigos](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Códigos)
 5. [Arquivos](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Arquivos)
-6. [Arquivos](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Links)
+6. [Links](https://github.com/amandaxavierhub/Projetos_Power_BI/Projetos-Vendas-Tech/README.md#Links)
 
 ## Introdução
 
