@@ -156,3 +156,5 @@ conn.close()
 ## Arquivos
 Arquivos
 📄 Relatório em PDF:
+- [Visualizar código](./Projeto-Vendas-Tech/base_de_vendas.py)
+- [Visualizar relatório](./Projeto-Vendas-Tech/portfolio_base_de_vendas.pdf)
